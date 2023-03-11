@@ -1,0 +1,24 @@
+.Header{
+    
+}
+
+
+.container {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.mensaje {
+    color: rgb(130, 211, 255);
+    
+}
+
+.logo { 
+  width: 200px;
+  padding: 10px;
+  
+}
